@@ -1,8 +1,5 @@
 { "scripts": {
-  "preinstall": "./Server",
    "start":"node app.js"
-
-
 },
 
  "dependencies": {
